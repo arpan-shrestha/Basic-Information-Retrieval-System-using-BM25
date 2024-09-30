@@ -1,0 +1,72 @@
+Query: alice
+Document: Alice's Adventures in Wonderland.txt, Score: 0.7000
+Document: The Complete Works of William Shakespeare.txt, Score: 0.6095
+Document: Little Women; Or, Meg, Jo, Beth, and Amy.txt, Score: 0.3916
+Document: The Enchanted April.txt, Score: 0.1814
+Document: A Room with a View.txt, Score: 0.1814
+Document: The Adventures of Ferdinand Count Fathom .txt, Score: 0.1814
+Document: The Blue Castle; a novel.txt, Score: 0.1814
+Document: The Adventures of Roderick Random.txt, Score: 0.1814
+Document: Cranford.txt, Score: 0.1814
+Document: The Expedition of Humphry Clinker.txt, Score: 0.1814
+
+Query: mad hatter tea party
+Document: Alice's Adventures in Wonderland.txt, Score: 0.7000
+Document: The Blue Castle; a novel.txt, Score: 0.1867
+Document: The Expedition of Humphry Clinker.txt, Score: 0.1856
+Document: A Room with a View.txt, Score: 0.1840
+Document: The Adventures of Roderick Random.txt, Score: 0.1837
+Document: Little Women; Or, Meg, Jo, Beth, and Amy.txt, Score: 0.1837
+Document: Cranford.txt, Score: 0.1805
+Document: The Adventures of Ferdinand Count Fathom .txt, Score: 0.1767
+Document: The Enchanted April.txt, Score: 0.1525
+Document: The Complete Works of William Shakespeare.txt, Score: 0.1518
+
+Query: queen heart croquet game
+Document: Alice's Adventures in Wonderland.txt, Score: 0.7000
+Document: Little Women; Or, Meg, Jo, Beth, and Amy.txt, Score: 0.5980
+Document: The Complete Works of William Shakespeare.txt, Score: 0.2211
+Document: Cranford.txt, Score: 0.2184
+Document: The Expedition of Humphry Clinker.txt, Score: 0.2142
+Document: The Blue Castle; a novel.txt, Score: 0.2136
+Document: A Room with a View.txt, Score: 0.2135
+Document: The Adventures of Roderick Random.txt, Score: 0.2063
+Document: The Adventures of Ferdinand Count Fathom .txt, Score: 0.2023
+Document: The Enchanted April.txt, Score: 0.1651
+
+Query: alices confrontation queen heart
+Document: Alice's Adventures in Wonderland.txt, Score: 0.7000
+Document: The Complete Works of William Shakespeare.txt, Score: 0.1658
+Document: Cranford.txt, Score: 0.1630
+Document: Little Women; Or, Meg, Jo, Beth, and Amy.txt, Score: 0.1626
+Document: The Blue Castle; a novel.txt, Score: 0.1604
+Document: A Room with a View.txt, Score: 0.1593
+Document: The Expedition of Humphry Clinker.txt, Score: 0.1592
+Document: The Adventures of Roderick Random.txt, Score: 0.1531
+Document: The Adventures of Ferdinand Count Fathom .txt, Score: 0.1504
+Document: The Enchanted April.txt, Score: 0.1247
+
+Query: orange marmalade
+Document: The Blue Castle; a novel.txt, Score: 0.7000
+Document: Alice's Adventures in Wonderland.txt, Score: 0.6570
+Document: The Expedition of Humphry Clinker.txt, Score: 0.4605
+Document: Cranford.txt, Score: 0.3123
+Document: The Enchanted April.txt, Score: 0.3053
+Document: Little Women; Or, Meg, Jo, Beth, and Amy.txt, Score: 0.2922
+Document: A Room with a View.txt, Score: 0.2918
+Document: The Adventures of Roderick Random.txt, Score: 0.2867
+Document: The Complete Works of William Shakespeare.txt, Score: 0.2299
+Document: The Adventures of Ferdinand Count Fathom .txt, Score: 0.1986
+
+Query: jumped foot moment
+Document: Alice's Adventures in Wonderland.txt, Score: 0.7000
+Document: The Adventures of Roderick Random.txt, Score: 0.6778
+Document: A Room with a View.txt, Score: 0.6610
+Document: The Blue Castle; a novel.txt, Score: 0.6571
+Document: Little Women; Or, Meg, Jo, Beth, and Amy.txt, Score: 0.6203
+Document: Cranford.txt, Score: 0.5851
+Document: The Enchanted April.txt, Score: 0.5843
+Document: The Adventures of Ferdinand Count Fathom .txt, Score: 0.4065
+Document: The Expedition of Humphry Clinker.txt, Score: 0.4060
+Document: The Complete Works of William Shakespeare.txt, Score: 0.4020
+
